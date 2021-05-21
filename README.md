@@ -1,3 +1,2 @@
-# Games
-A collection of random game stuff.
-y
+# ROBLOX
+A place for all stuff programming on ROBLOX. These modules and scripts rely on ROBLOX's APIs.
